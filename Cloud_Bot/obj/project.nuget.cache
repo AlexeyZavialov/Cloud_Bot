@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Uc9SIYqpNSsbVIh6ieMosMWdiLHUBfMLr5SUVMpYoR+sn5eA2ly00GdwkqE+bAnGpw1JbcAyKT7yGmXWMZx3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dayks\\source\\repos\\Cloud_Bot\\Cloud_Bot\\Cloud_Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dayks\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dayks\\.nuget\\packages\\webtools.htmlscrapper\\1.0.0\\webtools.htmlscrapper.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
